@@ -1,0 +1,26 @@
+.Kategori_Lupa {
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1D1D1D;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-left: 16px;
+    cursor: pointer;
+}
+
+.Kategori_text {
+    width: 98px;
+    text-align: center;
+    margin-right: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #E1E1E1;
+    cursor: pointer;
+    transition: color 0.3s ease; 
+}
+
+.Kategori_text:hover {
+    color: #FFD60A; 
+}

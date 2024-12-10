@@ -1,0 +1,40 @@
+.Footer_lot {
+    color: #E1E1E1;
+    width: 170px;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.Footer_lot_i {
+    margin-top: 8px;
+}
+
+.Footer_lot_inner {
+    overflow: hidden;
+    height: 1px;
+    margin-left: 16px;
+    margin-right: 16px;
+    background-color: #646464;
+}
+
+.Footer_icon {
+    width: 211px;
+    height: 80px;
+}
+
+.Footer_mini {
+    background-color: #0F0F0F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #A8A8A8;
+    font-size: 10px;
+    font-weight: 400;
+    height: 62px;
+}
+
+.Footer_mini_text {
+    font-size: 11px;
+    font-weight: 500;
+    color: #A8A8A8;
+}
